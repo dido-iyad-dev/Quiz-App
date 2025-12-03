@@ -25,7 +25,8 @@ This project demonstrates **state management, event handling, and conditional re
 
 ## Screenshots 🖼️
 
-![Quiz App Screenshot](https://via.placeholder.com/600x400.png?text=Quiz+App+Screenshot)
+![Quiz App Screenshot](screenshot/1.png)
+![Quiz App Screenshot](screenshot/2.png)
 
 *Screenshot shows the quiz interface with question and options.*
 
