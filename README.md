@@ -57,4 +57,4 @@ Open your browser at http://localhost:3000
 
 Live Demo 🌐
 Check out the live version of the project here:
-!(https://quiz-app-yourname.netlify.app)
+!(https://quiz-iyad.netlify.app/)
